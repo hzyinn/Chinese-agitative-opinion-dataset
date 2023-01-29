@@ -1,7 +1,7 @@
 # Chinese-agitative-comment-dataset
 A ten-thousands scale Chinese dataset about agitative comments.
 
-label:
+## label:
 
 1-sentences containing agitative comments
 
