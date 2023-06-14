@@ -10,11 +10,11 @@ we categorize agitative opinions into nine types which are **inflammatory, fearm
 
 CAOD is constructed from articles with negative sentiment on WeChat public account. First, the sentences containing agitative opinions are annotated manually in articles. Then the sentences containing agitative opinions are extracted to form the positive samples with the rest negative ones. The following figure displays this process.
 
-![process](fig/process.svg)
+![process](https://github.com/hzyinn/Chinese-agitative-opinion-dataset/blob/main/fig/process.svg)
 
 ## Content
 
-In `CAOD.xlsx` is CAOD. There are totally 26,592 samples in CAOD, with 2,198 positive samples and 24,394 negative samples. 
+In `CAOD.xlsx` is CAOD. There are totally 26,592 samples in CAOD, with 2,198 positive samples and 24,394 negative samples. 
 
 Label `1` represents the sentence containing agitative opinions;
 
@@ -22,8 +22,8 @@ Label `0` represents the sentence not containing agitative opinions.
 
 Part of the dataset is shown here:
 
-![label1](fig/label1.png)
+![label1](https://github.com/hzyinn/Chinese-agitative-opinion-dataset/blob/main/fig/label1.png)
 
-![label0](fig/label0.png)
+![label0](https://github.com/hzyinn/Chinese-agitative-opinion-dataset/blob/main/fig/label0.png)
 
 
