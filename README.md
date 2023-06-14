@@ -4,7 +4,7 @@ CAOD is a ten-thousands scale Chinese agitative opinion dataset based on WeChat 
 
 ## Agitative Opinions
 
-we categorize agitative opinions into nine types which are **inflammatory, fearmongering, group opposition, unrealistic, offensive, pornographic, mammonish, immoral and extreme** opinions. If a sentence contains any type of opinions above, we regard it as a sentence containing agitative opinions.
+We categorize agitative opinions into nine types which are **inflammatory, fearmongering, group opposition, unrealistic, offensive, pornographic, mammonish, immoral and extreme** opinions. If a sentence contains any type of opinions above, we regard it as a sentence containing agitative opinions.
 
 ## Construction
 
