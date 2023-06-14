@@ -14,7 +14,7 @@ CAOD is constructed from articles with negative sentiment on WeChat public accou
 
 ## Content
 
-In `Chinese_agitative_opinion_dataset.xlsx` is CAOD. There are totally 26,592 samples in CAOD, with 2,198 positive samples and 24,394 negative samples. 
+In `CAOD.xlsx` is CAOD. There are totally 26,592 samples in CAOD, with 2,198 positive samples and 24,394 negative samples. 
 
 Label `1` represents the sentence containing agitative opinions;
 
